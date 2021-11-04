@@ -3,9 +3,12 @@ Rencana Konten Khamid
 - JavaScript
   *ES6
   *Framework JavaScript
-    ^Angular
-    ^React
+=======
+   ^Vue
+   ^React
+- Struktur Data Dasar 
 - PHP Framework
   ^Laravel
 - Interview
 - Vlogs
+- python
