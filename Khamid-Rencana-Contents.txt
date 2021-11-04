@@ -1,0 +1,6 @@
+Rencana Konten Khamid
+
+- JavaScript
+- PHP Framework
+- Interview
+- Vlogs
