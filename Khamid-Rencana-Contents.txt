@@ -4,6 +4,7 @@ Rencana Konten Khamid
   *ES6
   *Framework JavaScript
    ^Vue
+   ^React
 - Struktur Data Dasar 
 - PHP Framework
   ^Laravel
