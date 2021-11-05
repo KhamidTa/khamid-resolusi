@@ -6,6 +6,7 @@ Rencana Konten Khamid
 =======
    ^Vue
    ^React
+   ^Angular
 - Struktur Data Dasar 
 - PHP Framework
   ^Laravel
